@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header_div p{
+font-weight: bold;
+color: royalblue;
+font-size: 20px;
+}
+.header_div{
+    background-color: rgb(240, 255, 255);
+    color: red;
+}
+.main_div button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: greenyellow;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color:pink;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px powderblue ;
+}
